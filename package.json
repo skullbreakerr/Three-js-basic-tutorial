@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.7.0",
+    "sketchfab": "^0.1.2",
     "three": "^0.154.0"
   }
 }
